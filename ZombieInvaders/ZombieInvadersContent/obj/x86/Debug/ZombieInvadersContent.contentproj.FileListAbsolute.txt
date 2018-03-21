@@ -1,0 +1,9 @@
+C:\Users\kandrew\Desktop\ZombieInvaders2\ZombieInvaders2\ZombieInvaders\ZombieInvadersContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kristopher\Desktop\ZombieInvaders2\ZombieInvaders2\ZombieInvaders2\ZombieInvaders\ZombieInvadersContent\obj\x86\Debug\ZombieInvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\Z-folder\ZombieInvaders2\ZombieInvaders2\ZombieInvaders2\ZombieInvaders\ZombieInvadersContent\obj\x86\Debug\ZombieInvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\ZombieInvaders\ZombieInvaders2\ZombieInvaders2\ZombieInvaders\ZombieInvadersContent\obj\x86\Debug\ZombieInvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\ZombieInvaders - Copy\ZombieInvaders2\ZombieInvaders2\ZombieInvaders\ZombieInvadersContent\obj\x86\Debug\ZombieInvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\ZombieInvaders - Updated\ZombieInvaders2\ZombieInvaders2\ZombieInvaders\ZombieInvadersContent\obj\x86\Debug\ZombieInvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\ZmbieInvdrs\ZombieInvaders2\ZombieInvaders2\ZombieInvaders\ZombieInvadersContent\obj\x86\Debug\ZombieInvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\ZmbieInvdrs - Updated\ZombieInvaders\ZombieInvadersContent\obj\x86\Debug\ZombieInvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\ZmbieInvdrs\ZombieInvaders\ZombieInvadersContent\obj\x86\Debug\ZombieInvadersContent.contentprojResolveAssemblyReference.cache

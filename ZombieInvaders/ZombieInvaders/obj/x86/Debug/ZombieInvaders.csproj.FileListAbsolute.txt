@@ -1,0 +1,7 @@
+C:\Users\Kristopher\SkyDrive\My Documents\ISM\ZombieInvaders\ZombieInvaders\ZombieInvaders\bin\x86\Debug\Content\Images\strtScrn.xnb
+C:\Users\Kristopher\SkyDrive\My Documents\ISM\ZombieInvaders\ZombieInvaders\ZombieInvaders\bin\x86\Debug\ZombieInvaders.exe
+C:\Users\Kristopher\SkyDrive\My Documents\ISM\ZombieInvaders\ZombieInvaders\ZombieInvaders\bin\x86\Debug\ZombieInvaders.pdb
+C:\Users\Kristopher\SkyDrive\My Documents\ISM\ZombieInvaders\ZombieInvaders\ZombieInvaders\obj\x86\Debug\ZombieInvaders.csprojResolveAssemblyReference.cache
+C:\Users\Kristopher\SkyDrive\My Documents\ISM\ZombieInvaders\ZombieInvaders\ZombieInvaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kristopher\SkyDrive\My Documents\ISM\ZombieInvaders\ZombieInvaders\ZombieInvaders\obj\x86\Debug\ZombieInvaders.exe
+C:\Users\Kristopher\SkyDrive\My Documents\ISM\ZombieInvaders\ZombieInvaders\ZombieInvaders\obj\x86\Debug\ZombieInvaders.pdb
